@@ -1,4 +1,4 @@
-equipos = {}
+equipos = {}#se crea un diccionario llamado equipos
 
 # Funcion para agregar un equipo
 def agregarEquipo(idEquipo, cargador, mouse, ambiente):
